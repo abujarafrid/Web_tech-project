@@ -1,0 +1,4 @@
+:root{--primary:#4f46e5;--primary-dark:#3730a3;--primary-soft:#eef2ff}
+tbody tr:hover td:first-child{box-shadow:inset 4px 0 0 var(--primary)}
+.bar{height:8px}
+td button[value="send_request"],td button{border-radius:999px}
