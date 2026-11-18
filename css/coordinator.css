@@ -1,0 +1,4 @@
+:root{--primary:#ea580c;--primary-dark:#9a3412;--primary-soft:#ffedd5}
+tbody tr:hover td{background:#fff7ed}
+.stat-card b{font-size:2.2rem}
+.badge-warn{box-shadow:0 0 0 2px #fed7aa}
